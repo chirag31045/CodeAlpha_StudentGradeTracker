@@ -24,8 +24,7 @@ This GUI application allows users to **input student names and grades**, display
 
 > ✨ GUI with input panel, table, and action buttons:
 
-![Student Grade Tracker Screenshot](screenshots/student-grade-tracker.png)  
-<sub>(Place your actual screenshot inside a `screenshots/` folder and name it `student-grade-tracker.png`)</sub>
+<p align="center"> <img src="https://github.com/chirag31045/CodeAlpha_StudentGradeTracker/blob/d244427039e34a01d2924b1a7704b8f4a9615ab7/Screenshot%20(781).png" alt="Dashboard Screenshot" width="80%"/> <img src="https://github.com/chirag31045/CodeAlpha_StudentGradeTracker/blob/d244427039e34a01d2924b1a7704b8f4a9615ab7/Screenshot%20(782).png" alt="Report Screenshot" width="80%"/>  </p>
 
 ---
 
